@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e3acea20bf3c0941b900e5cba94ceb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemBackgroundPlain: {instanceID: 0}
+  - bucketBackgroundPlain: {instanceID: 0}
+  - explosionParticle: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - letsPlay: {fileID: 8300000, guid: abec9400cd4ea1849ba14e69de589f0c, type: 3}
+  - goodJob: {fileID: 8300000, guid: 8d165bba74b99244897c61fef5b390ee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
